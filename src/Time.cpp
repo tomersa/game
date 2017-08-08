@@ -1,7 +1,7 @@
 // Fig. 17.15: Time.cpp
 // Time class member-function definitions.
 #include <stdexcept>
-#include "Time.h" // include definition of class Time
+//##include "Time.h" // include definition of class Time
 using namespace std;
 
 // constructor function to initialize private data; calls member function
